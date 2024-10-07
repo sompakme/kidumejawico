@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://kidumejawico.pages.dev/sitemap.xml
